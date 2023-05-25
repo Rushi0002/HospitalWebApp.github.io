@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.con{
+  border: 1px solid gray;
+  padding: 15px;
+  display:flex;
+  flex-direction:column;
+}
+
+h2{
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(93, 93, 181);
+}
+
+p{
+  text-align: center;
+  letter-spacing: 1px;
+  color: rgb(93, 93, 181);
+  font-family: 'Inter';
+  font-style: normal;
+}
+.logo{
+	display:flex;
+	justify-content:center;
+	gap:10px;
+	
+}
+img{
+	width:30px;
+}
